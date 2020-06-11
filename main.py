@@ -9,3 +9,4 @@ def mult(a, b):
 	return a * b
 
 print(sub(4, 6))
+print(mult(6, 5))
